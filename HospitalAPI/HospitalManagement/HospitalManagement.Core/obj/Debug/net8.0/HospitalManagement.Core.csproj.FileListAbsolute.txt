@@ -1,0 +1,13 @@
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.deps.json
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.AssemblyInfo.cs
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.dll
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\refint\HospitalManagement.Core.dll
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.pdb
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\ref\HospitalManagement.Core.dll
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\bin\Debug\net8.0\HospitalManagement.Core.runtimeconfig.json
+C:\Users\Classtime\Desktop\HospitalAPI\HospitalManagement\HospitalManagement.Core\obj\Debug\net8.0\HospitalManagement.Core.genruntimeconfig.cache

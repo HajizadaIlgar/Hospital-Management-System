@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697969AD-2A8D-4AF8-82B5-E64ED2F591C0}|HospitalManagement.BL\\HospitalManagement.BL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.bl\\dtos\\doctordtos\\doctorlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697969AD-2A8D-4AF8-82B5-E64ED2F591C0}|HospitalManagement.BL\\HospitalManagement.BL.csproj|solutionrelative:hospitalmanagement.bl\\dtos\\doctordtos\\doctorlistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697969AD-2A8D-4AF8-82B5-E64ED2F591C0}|HospitalManagement.BL\\HospitalManagement.BL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.bl\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697969AD-2A8D-4AF8-82B5-E64ED2F591C0}|HospitalManagement.BL\\HospitalManagement.BL.csproj|solutionrelative:hospitalmanagement.bl\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.dal\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|solutionrelative:hospitalmanagement.dal\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|solutionrelative:hospitalmanagement.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.dal\\repositories\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|solutionrelative:hospitalmanagement.dal\\repositories\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.dal\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEC9A9D-00A5-46C9-9C82-5C6442A58C73}|HospitalManagement.DAL\\HospitalManagement.DAL.csproj|solutionrelative:hospitalmanagement.dal\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.core\\repositories\\iinsurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|solutionrelative:hospitalmanagement.core\\repositories\\iinsurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|solutionrelative:hospitalmanagement.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.core\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|solutionrelative:hospitalmanagement.core\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|solutionrelative:hospitalmanagement.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|c:\\users\\classtime\\desktop\\hospitalapi\\hospitalmanagement\\hospitalmanagement.core\\hospitalmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF349924-067D-4E93-975E-D623F4F31185}|HospitalManagement.Core\\HospitalManagement.Core.csproj|solutionrelative:hospitalmanagement.core\\hospitalmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorListItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorListItemDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorListItemDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorListItemDTO.cs",
+              "RelativeToolTip": "HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorListItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:57:03.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeToolTip": "HospitalManagement.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:56:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.DAL\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "HospitalManagement.DAL\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:52:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsuranceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\InsuranceRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.DAL\\Repositories\\InsuranceRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\InsuranceRepository.cs",
+              "RelativeToolTip": "HospitalManagement.DAL\\Repositories\\InsuranceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:52:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.DAL\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "HospitalManagement.DAL\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:51:08.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInsuranceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IInsuranceRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.Core\\Repositories\\IInsuranceRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IInsuranceRepository.cs",
+              "RelativeToolTip": "HospitalManagement.Core\\Repositories\\IInsuranceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:50:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.Core\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "HospitalManagement.Core\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:49:43.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.Core\\Repositories\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IDoctorRepository.cs",
+              "RelativeToolTip": "HospitalManagement.Core\\Repositories\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:48:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "HospitalManagement.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:45:23.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "HospitalManagement.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "HospitalManagement.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:43:51.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalManagement.Core",
+              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\HospitalManagement.Core.csproj",
+              "RelativeDocumentMoniker": "HospitalManagement.Core\\HospitalManagement.Core.csproj",
+              "ToolTip": "C:\\Users\\Classtime\\Desktop\\HospitalAPI\\HospitalManagement\\HospitalManagement.Core\\HospitalManagement.Core.csproj",
+              "RelativeToolTip": "HospitalManagement.Core\\HospitalManagement.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T09:43:31.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
